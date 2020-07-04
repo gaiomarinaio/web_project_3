@@ -1,0 +1,15 @@
+.footer__copyright {
+    color: white;
+    position: absolute;
+    margin: 0;
+    right: 0;
+    line-height: 16px;
+    font-size: 14px;
+}
+
+@media (max-width: 425px) {
+    .footer__copyright {
+        line-height: 14px;
+        position: relative;
+    }
+}
