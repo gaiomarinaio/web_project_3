@@ -1,8 +1,6 @@
 .footer__copyright {
     color: white;
-    position: absolute;
     margin: 0;
-    right: 0;
     line-height: 16px;
     font-size: 14px;
 }

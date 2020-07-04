@@ -20,12 +20,16 @@
 @media (max-width: 768px) {
     .lead {
         padding-top: 50px;
+        margin: 0 auto 0;
+        width: 100%;
     }
 }
 
 @media (max-width: 425px) {
     .lead {
         padding-top: 50px;
+        margin: 0;
+        width: 100%;
     }
 }
 

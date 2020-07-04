@@ -1,6 +1,5 @@
 .header__logo {
-    position: absolute;
-    left: 0;
+    position: relative;
     background: 190px 44px;
     border: 0;
     justify-self: left;

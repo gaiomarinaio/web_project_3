@@ -6,7 +6,13 @@
     font-weight: normal;
     font-size: 12px;
     line-height: 170%;
-    letter-spacing: 0.2em;
+    letter-spacing: .2em;
+}
+
+@media (max-width: 1024px) {
+    .place__url-heading {
+        line-height: 170%;
+    }
 }
 
 @media (max-width: 768px) {

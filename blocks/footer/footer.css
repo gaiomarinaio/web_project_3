@@ -1,5 +1,6 @@
 @import url('./__copyright/footer__copyright.css');
 @import url('./__link/footer__link.css');
+@import url('./__link-box/footer__link-box.css');
 
 .footer {
     margin: 92px auto 24px;
@@ -7,6 +8,8 @@
     width: 90%;
     position: relative;
     display: flex;
+    flex-direction: row;
+    justify-content: space-between;
 }
 
 @media (max-width: 768px) {
